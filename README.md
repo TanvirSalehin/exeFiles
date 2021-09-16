@@ -1,5 +1,6 @@
 # Python Executables
 Okkay, so back to game and algorithms. But what is the fun when you can't show your projects. Well, of course you can, but they must have python installed which is not a hard thing. But most don't have it installed, nor know how to run python files.
+
 But what about **Executables** ?. Most of the people who use personal computers know how to install an .exe file.
 So I converted some of my python projects into .exe files usind **pyinstaller** module. These executables do not need python to be installed on a computer to run. And it's easy to share I guess.
 So, I present to you some projects --
