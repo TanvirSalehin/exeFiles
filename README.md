@@ -14,3 +14,8 @@ So, I present to you some projects --
  * Co-Prime, as the name suggests, is a math related project. It shows how many numbers are co-prime to a number that you input. Also known as Euler's Totient Function ϕ(n).
  * Upon booting up the .exe file, a window pops up asking you to input a number. After you input a number, another window pops up saying some things. Again, it's up to you to find out.
  * However, if you input negative number or a non-integer (float, string etc) you will end up crashing the app. Again, this is my fault. In shaa allah these will be fixed.
+3. nthPrime:
+
+ * This is a simple app that takes a positive integer as input and displays the nth prime number.
+ * But if the number (n) is greater than 510000, the app slows down. It can compute, but takes much more time.
+ * Inputing a negative integer or non-integer will end up crashing the app.
